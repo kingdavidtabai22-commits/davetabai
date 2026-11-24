@@ -1,0 +1,8 @@
+{
+  "name": "Lineage Atlas",
+  "description": "Interactive genealogy and ancestral lineage visualizer for exploring extended family trees, lifespan timelines, and geographic heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
